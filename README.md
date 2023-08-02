@@ -10,3 +10,6 @@ Pasos para ejecutar proyecto:
 
 1. Ejecutar ```npm run build```
 2. Tomar la carpeta ```dist``` y desplegarla
+
+# Vista previa
+- Para una vista previa del proyecto haga click [aqui](https://rodolf0dsg.github.io/JS-blackjack-vite/)
